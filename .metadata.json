@@ -1,0 +1,10 @@
+[
+  {
+    "package": "polaroid",
+    "oncran": true
+  },
+  {
+    "package": "shinyCyJS",
+    "oncran": true
+  }
+]
