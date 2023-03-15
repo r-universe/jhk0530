@@ -1,10 +1,10 @@
 [
   {
-    "package": "shinyCyJS",
+    "package": "polaroid",
     "oncran": true
   },
   {
-    "package": "polaroid",
+    "package": "shinyCyJS",
     "oncran": true
   }
 ]

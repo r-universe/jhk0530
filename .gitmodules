@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "shinyCyJS"]
-	path = shinyCyJS
-	url = https://github.com/jhk0530/shinycyjs
-	shallow = true
-	registered = true
 [submodule "polaroid"]
 	path = polaroid
 	url = https://github.com/jhk0530/polaroid
+	shallow = true
+	registered = true
+[submodule "shinyCyJS"]
+	path = shinyCyJS
+	url = https://github.com/jhk0530/shinycyjs
 	shallow = true
 	registered = true
