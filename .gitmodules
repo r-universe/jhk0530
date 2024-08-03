@@ -1,10 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/jhk0530/jhk0530.r-universe.dev
 	branch = HEAD
 [submodule "polaroid"]
 	path = polaroid
 	url = https://github.com/jhk0530/polaroid
 [submodule "shinyCyJS"]
 	path = shinyCyJS
-	url = https://github.com/jhk0530/shinycyjs
+	url = https://github.com/jhk0530/shinyCyJS
