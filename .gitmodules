@@ -2,9 +2,15 @@
 	path = .registry
 	url = https://github.com/jhk0530/jhk0530.r-universe.dev
 	branch = HEAD
+[submodule "gemini.R"]
+	path = gemini.R
+	url = https://github.com/jhk0530/gemini.R
 [submodule "polaroid"]
 	path = polaroid
 	url = https://github.com/jhk0530/polaroid
 [submodule "shinyCyJS"]
 	path = shinyCyJS
 	url = https://github.com/jhk0530/shinyCyJS
+[submodule "shinyReadme"]
+	path = shinyReadme
+	url = https://github.com/jhk0530/shinyReadme
